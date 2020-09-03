@@ -7,7 +7,7 @@ This is simple Parallax scrolling website
 npm install
 ```
 
-##To Run
+## To Run
 
 ```bash
 npm run start
