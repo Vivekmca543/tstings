@@ -1,8 +1,8 @@
-#Parallax scrolling
+# Parallax scrolling
 
 This is simple Parallax scrolling website
 
-##Installation
+## Installation
 ```bash
 npm install
 ```
