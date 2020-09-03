@@ -1,0 +1,14 @@
+{
+  "name": "js-starter",
+  "version": "1.0.0",
+  "description": "JS Starter ",
+  "main": "js/custom.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "vivek",
+  "license": "none",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
